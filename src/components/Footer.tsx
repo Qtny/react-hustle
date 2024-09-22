@@ -6,7 +6,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="flex flex-col justify-center items-center gap-10 w-full pb-8">
+    <footer className="flex flex-col justify-center items-center gap-10 w-full pb-8 pt-24">
       <div className="space-y-2">
         <h1 className="text-[30px] font-bold">Join Us</h1>
         <p className="text-base font-normal">Get 20% off per order</p>
