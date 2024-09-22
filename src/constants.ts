@@ -1,18 +1,18 @@
 export const navItems = [
     {
-        name: "LEARN",
+        name: "Learn",
         path: "#learn",
     },
     {
-        name: "NEW",
-        path: "#new",
+        name: "Design Tools",
+        path: "#design-tools",
     },
     {
-        name: "PRODUCT",
-        path: "#product",
+        name: "Perks",
+        path: "#perks",
     },
     {
-        name: "JOIN US",
+        name: "Join Us",
         path: "#join-us",
     },
 ]
